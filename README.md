@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gmcallister-r7
 - 👀 I’m interested in cars, computers and gaming
-- 🌱 I’m currently learning lots of programming (i'm an intern)
-- 💞️ I’m looking to collaborate on Appspider and Insight AppSec
+- 🌱 I’m currently learning java/spring/kotlin
 - 📫 How to reach me:
      E-mail: glenn_mcallister@rapid7.com
 
